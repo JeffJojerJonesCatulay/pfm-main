@@ -1,7 +1,5 @@
 # Personal Finance Manager
 
-![App Screenshot](docs/images/previousApp/pfm-screenshot.jpg)
-
 ## Overview
 
 The Personal Finance Manager is designed to help users track, allocate, and manage their finances in one intuitive interface. It provides a friendly dashboard with quick access to essential financial tools.

@@ -23,7 +23,7 @@ The interface welcomes users with a personalized dashboard and transaction optio
 
 ![App Screenshot](docs/images/previousApp/pfm-screenshot.jpg)
 
-## Screenshot
+## Issues Encountered
 
 The app was originally created on Mar 7, 2023 and been using it ever since with the management of my personal finance. Issue encountered is the application is android specific only and when I changed deviced to ios the application is not usable anymore.
 

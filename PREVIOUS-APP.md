@@ -22,3 +22,9 @@ The Personal Finance Manager is designed to help users track, allocate, and mana
 The interface welcomes users with a personalized dashboard and transaction options:
 
 ![App Screenshot](docs/images/previousApp/pfm-screenshot.jpg)
+
+## Screenshot
+
+The app was originally created on Mar 7, 2023 and been using it ever since with the management of my personal finance. Issue encountered is the application is android specific only and when I changed deviced to ios the application is not usable anymore.
+
+With the app version 2 will introduced a web application, applying my learnings on different technology as I progress with the development.

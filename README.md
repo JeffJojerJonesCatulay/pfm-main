@@ -28,3 +28,4 @@ This repository acts as the **main hub**. Other repositories will contain modula
 Links to these repositories will be added as development progresses.
 
 PFM-Database: [Repo](https://github.com/JeffJojerJonesCatulay/pfm-database.git) | [Pages](https://jeffjojerjonescatulay.github.io/pfm-database/)
+PFM-Rest-API: [Repo](https://github.com/JeffJojerJonesCatulay/pfm-springboot-rest-api.git) | [Pages](https://jeffjojerjonescatulay.github.io/pfm-springboot-rest-api/)

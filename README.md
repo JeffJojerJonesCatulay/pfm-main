@@ -30,4 +30,4 @@ Links to these repositories will be added as development progresses.
 PFM-Database: [Repo](https://github.com/JeffJojerJonesCatulay/pfm-database.git) | [Pages](https://jeffjojerjonescatulay.github.io/pfm-database/)
 PFM-Rest-API: [Repo](https://github.com/JeffJojerJonesCatulay/pfm-springboot-rest-api.git) | [Pages](https://jeffjojerjonescatulay.github.io/pfm-springboot-rest-api/)
 PFM-Rest-Test: [Repo](https://github.com/JeffJojerJonesCatulay/pfm-test.git) | [Pages](https://jeffjojerjonescatulay.github.io/pfm-test/)
-PFM-Infra: [Repo](https://github.com/JeffJojerJonesCatulay/pfm-main.git) | [Pages](https://jeffjojerjonescatulay.github.io/pfm-infra/)
+PFM-Infra: [Repo](https://github.com/JeffJojerJonesCatulay/pfm-infra) | [Pages](https://jeffjojerjonescatulay.github.io/pfm-infra/)

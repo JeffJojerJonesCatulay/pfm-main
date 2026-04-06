@@ -46,3 +46,7 @@ PFM-Test: [Repo](https://github.com/JeffJojerJonesCatulay/pfm-test.git) | [Pages
 PFM-Infra: [Repo](https://github.com/JeffJojerJonesCatulay/pfm-infra.git) | [Pages](https://jeffjojerjonescatulay.github.io/pfm-infra/)
 
 ![Infra](./docs/images/infra.png)
+
+---
+*Note: Images used in this project were generated using Microsoft Copilot.*
+

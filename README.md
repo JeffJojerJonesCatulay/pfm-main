@@ -29,20 +29,20 @@ Links to these repositories will be added as development progresses.
 
 PFM-Database: [Repo](https://github.com/JeffJojerJonesCatulay/pfm-database.git) | [Pages](https://jeffjojerjonescatulay.github.io/pfm-database/)
 
-![DB](./docs/image/db.png)
+![DB](./docs/images/db.png)
 
 PFM-Rest-API: [Repo](https://github.com/JeffJojerJonesCatulay/pfm-springboot-rest-api.git) | [Pages](https://jeffjojerjonescatulay.github.io/pfm-springboot-rest-api/)
 
-![API](./docs/image/api.png)
+![API](./docs/images/api.png)
 
 PFM-Web: [Repo](https://github.com/JeffJojerJonesCatulay/pfm-web.git) | [Pages](https://jeffjojerjonescatulay.github.io/pfm-web/)
 
-![Web](./docs/image/web.png)
+![Web](./docs/images/web.png)
 
 PFM-Test: [Repo](https://github.com/JeffJojerJonesCatulay/pfm-test.git) | [Pages](https://jeffjojerjonescatulay.github.io/pfm-test/)
 
-![Test](./docs/image/test.png)
+![Test](./docs/images/test.png)
 
 PFM-Infra: [Repo](https://github.com/JeffJojerJonesCatulay/pfm-infra.git) | [Pages](https://jeffjojerjonescatulay.github.io/pfm-infra/)
 
-![Infra](./docs/image/infra.png)
+![Infra](./docs/images/infra.png)

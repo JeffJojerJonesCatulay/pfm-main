@@ -48,6 +48,7 @@ API_SECRET=ThisIsMySuperSecureSecretKeyThatMustBeLongEnoughForJWTManualProccessi
 # Web Configuration
 WEB_IMAGE_TAG=v1.0.1
 WEB_PORT=5173
+VITE_PFM_BASE_URL=/api/v1.0.0/pfm/
 ```
 
 > [!TIP]

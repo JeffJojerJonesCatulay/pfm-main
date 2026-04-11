@@ -117,11 +117,3 @@ PFM-Infra: [Repo](https://github.com/JeffJojerJonesCatulay/pfm-infra.git) | [Pag
 
 ---
 *Note: Images used in this project were generated using Microsoft Copilot.*
-
-### 💡 Author's Note
-
-This project was developed as a showcase of **Generative AI, Prompt Engineering, and Agentic Development**. 
-
-While I possess basic knowledge of web technologies, I am not an expert in **React, TypeScript, or UI Design**. The entire codebase, including the REST API and the Web Application, was architected and implemented using **Google Antigravity**. This project stands as a testament to the power of agentic AI in modern software development.
-
-

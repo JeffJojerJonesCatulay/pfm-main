@@ -18,6 +18,11 @@ The **Personal Finance Manager** is designed to help users track, allocate, and 
 - 📈 **Financial Insights**  
   Visualize trends with charts and reports to make informed decisions.
 
+## 🚀 Project Showcase
+
+Explore the full visual tour and documentation of the project here:  
+👉 **[PFM Project Showcase](https://jeffjojerjonescatulay.github.io/project-docu-pages/pfm/index.html)**
+
 ## Project Structure
 
 This repository acts as the **main hub**. Other repositories will contain modular components such as:
@@ -47,13 +52,10 @@ PFM-Infra: [Repo](https://github.com/JeffJojerJonesCatulay/pfm-infra.git) | [Pag
 
 ![Infra](./docs/images/infra.png)
 
-## Showcase
-
-Explore the full visual tour of the Personal Finance Manager ecosystem:
-👉 **[View Project Showcase](https://jeffjojerjonescatulay.github.io/project-docu-pages/pfm/index.html)**
-
 ---
 *Note: Images used in this project were generated using Microsoft Copilot.*
+
+---
 
 ### 💡 Author's Note
 

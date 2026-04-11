@@ -68,6 +68,20 @@ The system will be accessible at:
 - **Frontend:** `http://localhost:5173`
 - **Backend API:** `http://localhost:9010`
 
+### 4. Database Setup & Initialization
+
+To initialize the records and schema, follow these steps:
+
+1. **Install MySQL Client:** Download and install [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) or any MySQL client of your choice.
+2. **Connect to Database:** Use the credentials defined in your `.env` file to log into the dockerized MySQL instance:
+   - **Host:** `localhost`
+   - **Port:** `3306`
+   - **Username:** Your `MYSQL_USER` (as set in `.env`)
+   - **Password:** Your `MYSQL_PASSWORD` (as set in `.env`)
+3. **Execute SQL Scripts:**
+   - Locate the SQL files in the `pfm-database` repository under `erd/sql/`.
+   - Run these scripts in your MySQL client to set up the necessary tables and initial data. It is recommended to start with `startup.sql`.
+
 ## 🏠 Personal Deployment Note
 
 For personal use and cost-optimization, the production-like environment for this project is hosted directly on a **local machine** (personal laptop). Public access is managed through a **secure tunnel**, which routes traffic to the local containers. This setup allows for a fully functional, live demo environment while keeping infrastructure costs to a minimum.

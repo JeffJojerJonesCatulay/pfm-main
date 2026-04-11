@@ -2,7 +2,7 @@
 
 The **Personal Finance Manager** is designed to help users track, allocate, and manage their finances in one intuitive interface. It provides a friendly dashboard with quick access to essential financial tools, making financial management simple and effective.
 
-⚠️ **Note:** This project is a **work in progress**. It serves as the **central hub** for multiple related repositories that together form the complete Personal Finance Manager ecosystem.
+✅ **Project Status:** Completed on **April 11, 2026**, but not limited for future enhancements, added features, and bug fixes.
 
 ## Features
 
@@ -47,6 +47,17 @@ PFM-Infra: [Repo](https://github.com/JeffJojerJonesCatulay/pfm-infra.git) | [Pag
 
 ![Infra](./docs/images/infra.png)
 
+## Showcase
+
+Explore the full visual tour of the Personal Finance Manager ecosystem:
+👉 **[View Project Showcase](https://jeffjojerjonescatulay.github.io/project-docu-pages/pfm/index.html)**
+
 ---
 *Note: Images used in this project were generated using Microsoft Copilot.*
+
+### 💡 Author's Note
+
+This project was developed as a showcase of **Generative AI, Prompt Engineering, and Agentic Development**. 
+
+While I possess basic knowledge of web technologies, I am not an expert in **React, TypeScript, or UI Design**. The entire codebase, including the REST API and the Web Application, was architected and implemented using **Google Antigravity**. This project stands as a testament to the power of agentic AI in modern software development.
 
